@@ -3,6 +3,7 @@ Repositorio destinado al desarrollo del proyecto del curso de Modelos I, basado 
 
 ##Enlaces Entregas:
 -Entrega 2: https://www.youtube.com/watch?v=nR3MyT_i_8E
+-Entrega Final: https://www.youtube.com/watch?v=P0Dl6o-q4tg
 
 ### Work team:
 - María de los Ángeles Agudelo Agudelo - C.C: 1034989131
